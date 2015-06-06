@@ -1,0 +1,15 @@
+D:\Workspace\DWZ.TaskManage\DWZ.TaskManage\bin\DWZ.TaskManage.dll.config
+D:\Workspace\DWZ.TaskManage\DWZ.TaskManage\bin\DWZ.TaskManage.dll
+D:\Workspace\DWZ.TaskManage\DWZ.TaskManage\bin\DWZ.TaskManage.pdb
+D:\Workspace\DWZ.TaskManage\DWZ.TaskManage\obj\Debug\DWZ.TaskManage.csprojResolveAssemblyReference.cache
+D:\Workspace\DWZ.TaskManage\DWZ.TaskManage\obj\Debug\DWZ.TaskManage.dll
+D:\Workspace\DWZ.TaskManage\DWZ.TaskManage\obj\Debug\DWZ.TaskManage.pdb
+D:\Workspace\DWZ.TaskManage\DWZ.TaskManage\bin\DWZ.Models.dll
+D:\Workspace\DWZ.TaskManage\DWZ.TaskManage\bin\DWZ.Repositories.dll
+D:\Workspace\DWZ.TaskManage\DWZ.TaskManage\bin\Dapper.dll
+D:\Workspace\DWZ.TaskManage\DWZ.TaskManage\bin\DWZ.Models.pdb
+D:\Workspace\DWZ.TaskManage\DWZ.TaskManage\bin\DWZ.Repositories.pdb
+D:\Workspace\DWZ.TaskManage\DWZ.TaskManage\bin\Dapper.pdb
+D:\Workspace\DWZ.TaskManage\DWZ.TaskManage\bin\Dapper.xml
+D:\Workspace\DWZ.TaskManage\DWZ.TaskManage\bin\Newtonsoft.Json.dll
+D:\Workspace\DWZ.TaskManage\DWZ.TaskManage\bin\Newtonsoft.Json.xml

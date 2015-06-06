@@ -1,0 +1,10 @@
+D:\Workspace\DWZ.TaskManage\DWZ.Repositories\bin\Debug\DWZ.Repositories.dll
+D:\Workspace\DWZ.TaskManage\DWZ.Repositories\bin\Debug\DWZ.Repositories.pdb
+D:\Workspace\DWZ.TaskManage\DWZ.Repositories\obj\Debug\DWZ.Repositories.csprojResolveAssemblyReference.cache
+D:\Workspace\DWZ.TaskManage\DWZ.Repositories\obj\Debug\DWZ.Repositories.dll
+D:\Workspace\DWZ.TaskManage\DWZ.Repositories\obj\Debug\DWZ.Repositories.pdb
+D:\Workspace\DWZ.TaskManage\DWZ.Repositories\bin\Debug\Dapper.dll
+D:\Workspace\DWZ.TaskManage\DWZ.Repositories\bin\Debug\DWZ.Models.dll
+D:\Workspace\DWZ.TaskManage\DWZ.Repositories\bin\Debug\DWZ.Models.pdb
+D:\Workspace\DWZ.TaskManage\DWZ.Repositories\bin\Debug\Dapper.pdb
+D:\Workspace\DWZ.TaskManage\DWZ.Repositories\bin\Debug\Dapper.xml
