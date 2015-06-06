@@ -663,6 +663,7 @@
     <Content Include="dwz\themes\azure\images\tabs\Thumbs.db" />
     <Content Include="dwz\themes\azure\images\tree\Thumbs.db" />
     <Content Include="dwz\themes\default\images\panel\Thumbs.db" />
+    <Content Include="Account\AddUser.ashx" />
     <None Include="Scripts\_references.js" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
@@ -672,6 +673,9 @@
     </None>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Account\AddUser.ashx.cs">
+      <DependentUpon>AddUser.ashx</DependentUpon>
+    </Compile>
     <Compile Include="Account\AddUser.aspx.cs">
       <DependentUpon>AddUser.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>

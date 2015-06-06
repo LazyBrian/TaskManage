@@ -1,7 +1,7 @@
 ﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="UserManage.aspx.cs" Inherits="DWZ.TaskManage.Account.UserManage" %>
 
 
-<form id="form1" runat="server" action="Account/AddUser.aspx" class="pageForm required-validate" onsubmit="return validateCallback(this)">
+<form id="form1" runat="server" action="Account/AddUser.ashx" class="pageForm required-validate" onsubmit="return validateCallback(this)">
     <div id="umList">
         头上一片青天，心中一个信念。
 
